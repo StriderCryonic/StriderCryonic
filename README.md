@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="56" height="56" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" height="56" /></div>
+
 <!--
 **StriderCryonic/StriderCryonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
